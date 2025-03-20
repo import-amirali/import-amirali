@@ -6,7 +6,7 @@ I joined Discord 4 years ago and i was introduced to programming and I continued
 
 ## Learning
 - Learning Python & Django.
-- I am learning the art of website design :)
+- I am learning Front End :)
 
 ## Working On
 - I am currently working on own my web/portfolio from zero !
