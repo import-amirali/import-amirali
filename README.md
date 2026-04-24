@@ -19,7 +19,7 @@ I joined Discord 4 years ago and i was introduced to programming and I continued
 - I enjoy coding cool stuff & tools !
 
 ### My Skills and Tools I Use
-![Icons](https://skillicons.dev/icons?i=python,html,css,django,sqlite,docker,vscode,linux,windows,github,instagram,discord,bots)
+![Icons](https://skillicons.dev/icons?i=linux,html,css,js,django,python,docker,vscode,windows,github,discord,bots)
 # 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=import-amirali&label=Viewer%20Count%20%3E&color=171717&style=plastic" alt="import-amirali" /> </p>
