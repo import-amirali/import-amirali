@@ -6,6 +6,7 @@ I joined Discord 4 years ago and i was introduced to programming and I continued
 
 ## Learning
 - Learning Python & Django.
+- Linux and servers.
 
 ## Working On
 - I am currently working on own my web/portfolio from zero !
@@ -15,11 +16,11 @@ I joined Discord 4 years ago and i was introduced to programming and I continued
 ### Web
 - Making a Good Looking And High Quality Website & Design .
 ### Tools
-- I enjoy coding cool stuff & tools with python !
+- I enjoy coding cool stuff & tools !
 
 ### My Skills and Tools I Use
-![Icons](https://skillicons.dev/icons?i=python,html,css,django,sqlite,vscode,linux,windows,github,instagram,discord,bots)
+![Icons](https://skillicons.dev/icons?i=python,html,css,django,sqlite,docker,vscode,linux,windows,github,instagram,discord,bots)
 # 
-<a href="https://github.com/import-amirali"><img src="https://img.shields.io/badge/Website%20Status%20(Up/Down)%3E-Down%20:%20Updating-db0000?style=plastic&link=https://github.com/import-amirali" alt="Website Status (Up/Down)>" /></a>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=import-amirali&label=Viewer%20Count%20%3E&color=171717&style=plastic" alt="import-amirali" /> </p>
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=import-amirali&theme=github_dark&show_icons=true"/> </p>
+
