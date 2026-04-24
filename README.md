@@ -10,6 +10,7 @@ I joined Discord 4 years ago and i was introduced to programming and I continued
 
 ## Working On
 - I am currently working on own my web/portfolio from zero !
+- My own Private TeamSpeak Server !
 
 ## Intrested In
 
